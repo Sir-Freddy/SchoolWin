@@ -6,7 +6,7 @@
 (Both from [ETNA](https://etna.io/) school)
 ## How to start the project
 * Open 2 terminal tabs :<br><br>
--Go to 'backend/' folder and type : ```npm start```<br>
--Go to 'client/' folder and type : ```npm start```
+-Go to 'backend/' folder and type : ```yarn start```<br>
+-Go to 'client/' folder and type : ```yarn start```
 
 It will open a new tab in your browser with the landing page of SchoolWin.
